@@ -1,11 +1,10 @@
 <div style="width:100%; margin-top:12px;">
   <table style="width:100%; border-collapse:collapse; border:none;">
     <tr style="border:none;">
-      <!-- Left: About + Tech Stack -->
       <td style="width:40%; vertical-align:top; padding:5px; border:none;">
         <h1 style="margin:6px 0 2px 0;">👋 Hi — I’m <span style="color:#00C4FF;">Mano Shruthi S</span></h1>
         <p style="margin:0 0 8px 0; font-size:1rem; color:#9fbad6;">
-          🎓 B.E. AI & Data Science • GenAI Enthusiast • Tech Writer
+          🎓 B.E. AI & DS Student • GenAI Enthusiast • Tech Writer
         </p>
         <p style="margin:6px 0 14px 0; font-weight:600; color:#ffd166;">
           💬 “Learning as my path, success as my journey.” 🌟
@@ -16,7 +15,6 @@
                alt="skills" />
         </div>
       </td>
-      <!-- Middle: Original Male GIF + Status + Connect -->
       <td style="width:30%; vertical-align:top; text-align:center; padding:10px; border:none;">
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
              alt="AI animation" width="260" 
@@ -36,7 +34,6 @@
           </a>
         </div>
       </td>
-      <!-- Right: GitHub Analytics -->
       <td style="width:30%; vertical-align:top; text-align:center; padding:10px; border:none;">
         <img src="https://github-readme-stats.vercel.app/api?username=ManoShruthiS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12&title_color=00C4FF&icon_color=00C4FF" 
              alt="GitHub Stats" width="320" style="margin-bottom:10px; border-radius:12px;">
@@ -56,9 +53,9 @@
 ---
 
 ## 🏆 Achievements & Highlights
-- 💡 **IBM Hackathon (Track 2)** — Team solution **selected for final round** (not finalist) — gained real-world product thinking & rapid prototyping.  
+- 💡 **IBM Hackathon (Track 2)** — Team solution **selected for final round** (not finalist). 
 - 🥈 **2 × NPTEL Silver Elite Certificates** — **1 course ranked in Top 5%** (academic excellence + consistency).  
-- 🧠 **Oracle Certified — GenAI Professional** • Best Performer (Elevate Labs AI/ML program)  
+- 🧠 **Oracle Certified — GenAI Professional** 
 
 ---
 
