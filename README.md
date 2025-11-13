@@ -7,7 +7,7 @@
           🎓 B.E. AI & DS Student • GenAI Enthusiast
         </p>
         <p style="margin:6px 0 14px 0; font-weight:600; color:#ffd166;">
-         ** “Learning as my path, success as my journey.”**
+         **“Learning as my path, success as my journey.”**
         </p>
         <h3 style="margin-top:18px; color:#00C4FF;">🧰 Tech Stack & Skills</h3>
         <div style="margin-top:6px;">
