@@ -2,12 +2,13 @@
   <table style="width:100%; border-collapse:collapse; border:none;">
     <tr style="border:none;">
       <td style="width:40%; vertical-align:top; padding:5px; border:none;">
-        <h1 style="margin:6px 0 2px 0;">👋 Hi — I’m <span style="color:#00C4FF;">Mano Shruthi S</span></h1>
+        <h1 style="margin:6px 0 2px 0;"><span style="color:#00C4FF;">Mano Shruthi S</span></h1>
         <p style="margin:0 0 8px 0; font-size:1rem; color:#9fbad6;">
-          🎓 B.E. AI & DS Student • GenAI Enthusiast • Tech Writer
+          🎓 B.E. AI & DS Student • GenAI Enthusiast
         </p>
         <p style="margin:6px 0 14px 0; font-weight:600; color:#ffd166;">
-          💬 “Learning as my path, success as my journey.” 🌟
+          💬 “Learning as my path,
+                success as my journey.” 🌟
         </p>
         <h3 style="margin-top:18px; color:#00C4FF;">🧰 Tech Stack & Skills</h3>
         <div style="margin-top:6px;">
