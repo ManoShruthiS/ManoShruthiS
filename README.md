@@ -20,6 +20,14 @@
 </div>
 
 ---
+<h2 align="center">❖ GITHUB METRICS & VIRTUALIZATION ❖</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ManoShruthiS&theme=tokyonight&hide_border=true&background=0D1117&ring=00C4FF&fire=00C4FF&currStreakLabel=00C4FF" width="100%" alt="GitHub Streak"/>
+</p>
+
+<br/>
+
 
 <h2 align="center">❖ EXECUTIVE SUMMARY ❖</h2>
 
@@ -105,18 +113,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<h2 align="center">❖ GITHUB METRICS & VIRTUALIZATION ❖</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ManoShruthiS&theme=tokyonight&hide_border=true&background=0D1117&ring=00C4FF&fire=00C4FF&currStreakLabel=00C4FF" width="100%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManoShruthiS&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C4FF&line=00C4FF&point=ffffff" width="100%" alt="Activity Graph"/>
-</p>
 
 <br/>
 
