@@ -20,12 +20,6 @@
 </div>
 
 ---
-<h2 align="center">❖ GITHUB METRICS & VIRTUALIZATION ❖</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ManoShruthiS&theme=tokyonight&hide_border=true&background=0D1117&ring=00C4FF&fire=00C4FF&currStreakLabel=00C4FF" width="100%" alt="GitHub Streak"/>
-</p>
-
 <br/>
 
 
